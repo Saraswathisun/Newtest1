@@ -1,7 +1,7 @@
 # Newtest1
 
 <html>
-  <head>This is new git test repo</head>
+  <head>This is new git test repo  here i made some changes</head>
   <body>
     Welcome to DevOps lessions 
   </body>
